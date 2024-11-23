@@ -3,12 +3,16 @@ This project is designed to simplify task management by providing a clean interf
 
 ## Project Demo 
 > #### Home Screen - All, Pending and Overdue Tasks
-- using Navigation bar to change tasks (All, Pending and Overdue).
+- use Navigation bar to change tasks (All, Pending and Overdue).
 
 [All Tasks](./client/src/assets/img/all-tasks.png)
 [Pending Tasks](./client/src/assets/img/pending-tasks.png)
 [Overdue Tasks](./client/src/assets/img/overdue-tasks.png)
 
+> #### Create a new Task
+- use Plus button for creating a new task.
+
+[Create Task](./client/src/assets/img/create-task.png)
 
 
 ## Technologies Used

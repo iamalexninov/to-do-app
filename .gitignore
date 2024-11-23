@@ -1,0 +1,34 @@
+# .NET specific
+bin/
+obj/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+project.lock.json
+project.fragment.lock.json
+
+# ASP.NET Core
+*.db
+*.mdf
+*.ldf
+.vs2019/
+.vs2022/
+.vscode/
+.vs
+
+# Node.js / React specific
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+build/
+.env
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific
+.idea/
+.vscode/

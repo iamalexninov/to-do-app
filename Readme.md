@@ -23,6 +23,8 @@ This project is designed to simplify task management by providing a clean interf
 - Check "checkbox input" to mark a task as done
 
 [Mark as Done](./client/src/assets/img/done-task.png)
+[Marked Task](./client/src/assets/img/marked-task.png)
+
 
 ## Technologies Used
 - Front-End: React, Axios, React Router, CSS Modules

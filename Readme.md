@@ -3,17 +3,26 @@ This project is designed to simplify task management by providing a clean interf
 
 ## Project Demo 
 > #### Home Screen - All, Pending and Overdue Tasks
-- use Navigation bar to change tasks (All, Pending and Overdue).
+- Use Navigation bar to change tasks (All, Pending and Overdue).
 
 [All Tasks](./client/src/assets/img/all-tasks.png)
 [Pending Tasks](./client/src/assets/img/pending-tasks.png)
 [Overdue Tasks](./client/src/assets/img/overdue-tasks.png)
 
 > #### Create a new Task
-- use Plus button for creating a new task.
+- Use Plus button for creating a new task.
 
 [Create Task](./client/src/assets/img/create-task.png)
 
+> #### Update an existing Task
+- Use Edit button for updating an existing task.
+
+[Update Task](./client/src/assets/img/update-task.png)
+
+> #### Mark Task as Done
+- Check "checkbox input" to mark a task as done
+
+[Mark as Done](./client/src/assets/img/done-task.png)
 
 ## Technologies Used
 - Front-End: React, Axios, React Router, CSS Modules

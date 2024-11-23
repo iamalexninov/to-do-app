@@ -1,8 +1,13 @@
 ## Overview
 This project is designed to simplify task management by providing a clean interface for users to create, update, mark tasks as done, see pending and overdue tasks, backed by a powerful API. The architecture consists of a front-end React application and a back-end ASP.NET Core Web API.
 
-## Project Demo
+## Project Demo 
 > #### Home Screen - All, Pending and Overdue Tasks
+- using Navigation bar to change tasks (All, Pending and Overdue).
+
+[All Tasks](./client/src/assets/img/all-tasks.png)
+[Pending Tasks](./client/src/assets/img/pending-tasks.png)
+[Overdue Tasks](./client/src/assets/img/overdue-tasks.png)
 
 
 
